@@ -16,7 +16,6 @@ public class PrintName {
     }
     public static void main(String[] args){
         PrintName p = new PrintName();
-        p.set_nom("nawfal");
         System.out.println("votre nom est"+p.get_nom());
     }
 }
