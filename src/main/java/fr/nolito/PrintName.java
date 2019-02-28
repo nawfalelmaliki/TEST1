@@ -4,6 +4,7 @@ import java.util.*;
 public class PrintName {
 
     String nom ;
+    String prenom;
     int nombre;
     public  void set_nom(String  xx)
     {
