@@ -5,6 +5,7 @@ public class PrintName {
 
     String nom ;
     int nombre;
+    int a;
     public  void set_nom(String  xx)
     {
         nom=xx;
