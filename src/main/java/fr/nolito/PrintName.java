@@ -6,6 +6,7 @@ public class PrintName {
     String nom ;
     String prenom;
     int nombre;
+    int b;
     public  void set_nom(String  xx)
     {
         nom=xx;
